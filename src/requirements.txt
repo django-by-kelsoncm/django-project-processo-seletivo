@@ -1,5 +1,5 @@
 # Core
-Django==6.0.7
+Django==6.1.2
 sc4py==0.1.4
 python-decouple==3.8
 
@@ -14,7 +14,7 @@ rule-engine==4.5.3
 # REST
 httpie==3.2.4
 requests==2.33.1
-django-ninja==1.6.2
+django-ninja==1.7.1
 djangorestframework==3.17.2
 django-dsgovbr==5.2.4
 
